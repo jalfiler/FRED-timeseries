@@ -13,11 +13,11 @@ The time series data is read from a csv file, which is downloaded from fred.stlo
 
 The lab includes the following classes:
 
-`TimeSeries`: This class holds a date/value series of data.
-`Difference`: This class represents a time series that is the difference between two other time series.
-`Fred`: This class is based on a csv file downloaded from fred.stlouis.org.
-`dgs3mo`: This class represents the 3-month treasury series from FRED.
-`dgs10`: This class represents the 10-year treasury series from FRED.
+- `TimeSeries`: This class holds a date/value series of data.
+- `Difference`: This class represents a time series that is the difference between two other time series.
+- `Fred`: This class is based on a csv file downloaded from fred.stlouis.org.
+- `dgs3mo`: This class represents the 3-month treasury series from FRED.
+- `dgs10`: This class represents the 10-year treasury series from FRED.
 
 ### Functions
 
