@@ -6,7 +6,7 @@ This code snippet is for data manipulation and visualization of time series data
 
 In general, predicting a recession is a complex task that requires a comprehensive analysis of various economic indicators, such as GDP growth, unemployment rate, inflation rate, and consumer spending, among others. Time series analysis is one of the many tools that can be used to analyze and understand the patterns and trends in these economic indicators over time.
 
-The time series data is read from a csv file, which is downloaded from fred.stlouis.org.
+The time series data is read from a csv file, which is downloaded from https://fred.stlouisfed.org/searchresults?st=treasury.
 
 
 ### Classes
